@@ -1,0 +1,10 @@
+# macOS Debug Symbols
+*.dSYM/
+
+# VS Code workspace settings
+.vscode/
+
+# Compiled binary executables
+helloworld
+
+.DS_Store
